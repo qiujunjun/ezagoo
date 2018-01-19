@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>http://appupdate.ezagoo.com/ezgcamp/logob.png</string>
+                        <string>http://appupdate.ezagoo.com/zgtquequan/114.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,7 +27,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string>http://appupdate.ezagoo.com/ezgcamp/logo.png</string>
+                        <string>http://appupdate.ezagoo.com/zgtquequan/57.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
@@ -35,7 +35,7 @@
                     <key>bundle-identifier</key>
                <string>com.zgt.qq</string>
                     <key>bundle-version</key>
-                    <string>1.1</string>
+                    <string>1.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
