@@ -35,11 +35,11 @@
                                 <key>bundle-identifier</key>
                                 <string>com.klch.fcxfg</string>
                                 <key>bundle-version</key>
-                                <string>1.0</string>
+                                <string>2.0</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>房车行营管</string>
+                                <string>约你游营管</string>
                         </dict>
                 </dict>
         </array>
